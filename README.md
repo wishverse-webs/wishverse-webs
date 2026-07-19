@@ -254,10 +254,10 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 <a href="https://github.com/wishverse-webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/wishverse-webs" target="_blank" rel="noopener noreferrer">
+<a href="https://instagram.com/wishverse.webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://tiktok.com/@wishverse-webs" target="_blank" rel="noopener noreferrer">
+<a href="https://tiktok.com/@wishverse.webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 </p>
