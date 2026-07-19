@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Hi%2C%20I%27m%20Faizan&fontSize=40&fontColor=C9A9FF&fontAlignY=35&desc=I%20build%20premium%20digital%20experiences%20that%20turn%20memories%20into%20unforgettable%20websites&descAlignY=55&descSize=16&descColor=E8E1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A9FF&center=true&vCenter=true&width=650&height=90&lines=Hi%2C+I'm+Faizan;I+build+premium+digital+experiences;That+turn+memories+into+unforgettable+websites" alt="Typing SVG" style="margin-top: -195px;" />
 
 <br/>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:wishverse.webs@gmail.com">
   <img src="https://img.shields.io/badge/Let's_Work_Together-C9A9FF?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com">
+<a href="https://wishverse-webs.vercel.app">
   <img src="https://img.shields.io/badge/View_Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -123,8 +125,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -137,8 +137,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -154,8 +152,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=vercel" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -168,8 +164,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -185,8 +179,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -199,8 +191,6 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-<a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -258,16 +248,16 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:your-email@example.com">
+<a href="mailto:wishverse.webs@gmail.com">
   <img src="https://img.shields.io/badge/Email-C9A9FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/wishverse-webs">
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/your-instagram-handle">
+<a href="https://instagram.com/wishverse-webs">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://tiktok.com/@your-tiktok-handle">
+<a href="https://tiktok.com/@wishverse-webs">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 </p>
@@ -282,6 +272,8 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=220&section=footer&text=Every%20memorable%20moment%20deserves%20a%20beautiful%20digital%20experience&fontSize=20&fontColor=C9A9FF&fontAlignY=65&desc=Made%20with%20love%20by%20Faizan&descAlignY=85&descSize=14&descColor=E8E1FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=220&section=footer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=E8E1FF&center=true&vCenter=true&width=650&height=70&lines=Every+memorable+moment+deserves+a+beautiful+digital+experience;Made+with+love+by+Faizan" alt="Typing SVG" style="margin-top: -140px;" />
 
 </div>
