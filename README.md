@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1200&color=C9A9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faizan+%F0%9F%91%8B;I+build+premium+digital+experiences;Turning+memories+into+websites" alt="Typing SVG" />
-
-<p align="center">
-  <sub><i>I build premium digital experiences that turn memories into unforgettable websites.</i></sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Hi%2C%20I%27m%20Faizan&fontSize=40&fontColor=C9A9FF&fontAlignY=35&desc=I%20build%20premium%20digital%20experiences%20that%20turn%20memories%20into%20unforgettable%20websites&descAlignY=55&descSize=16&descColor=E8E1FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -23,28 +15,26 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="0" height="0"/>
-</p>
-
 <div align="center">
-  <sub>✨ crafting digital love stories, one pixel at a time ✨</sub>
+<sub>crafting digital love stories, one pixel at a time</sub>
 </div>
 
 <br/>
 
-I design and build **custom, story-driven websites** for life's most meaningful moments —
+<p align="center">
+I design and build <b>custom, story driven websites</b> for life's most meaningful moments.
+</p>
 
 <table align="center">
 <tr>
-<td align="center" width="160">💗<br/><b>Couples</b></td>
-<td align="center" width="160">💍<br/><b>Wedding<br/>Invitations</b></td>
-<td align="center" width="160">🎂<br/><b>Birthday<br/>Surprises</b></td>
+<td align="center" width="33%">💗<br/><b>Couples</b></td>
+<td align="center" width="33%">💍<br/><b>Wedding Invitations</b></td>
+<td align="center" width="33%">🎂<br/><b>Birthday Surprises</b></td>
 </tr>
 <tr>
-<td align="center" width="160">💌<br/><b>Love<br/>Letters</b></td>
-<td align="center" width="160">💞<br/><b>Relationship<br/>Timelines</b></td>
-<td align="center" width="160">🎁<br/><b>Personalized<br/>Digital Gifts</b></td>
+<td align="center" width="33%">💌<br/><b>Love Letters</b></td>
+<td align="center" width="33%">💞<br/><b>Relationship Timelines</b></td>
+<td align="center" width="33%">🎁<br/><b>Personalized Digital Gifts</b></td>
 </tr>
 </table>
 
@@ -54,14 +44,25 @@ I design and build **custom, story-driven websites** for life's most meaningful 
 
 ## 🪞 About Me
 
-I specialize in building **interactive, emotionally engaging websites** using modern web technologies — turning personal stories into immersive digital experiences.
+<p align="center">
+I specialize in building <b>interactive, emotionally engaging websites</b> using modern web technologies, turning personal stories into immersive digital experiences.
+</p>
 
-Every project I create is built around **beautiful animation, thoughtful storytelling, and refined user experience** — because a website that celebrates a memory should feel just as special as the memory itself.
+<p align="center">
+Every project I create is built around <b>beautiful animation, thoughtful storytelling, and refined user experience</b>, because a website that celebrates a memory should feel just as special as the memory itself.
+</p>
 
-- 🎨 Obsessed with **micro-interactions** and smooth motion design
-- 📖 Every site tells a **story**, not just displays content
-- 💡 Focused on **premium, custom** builds — never templated
-- ⚡ Performance-first, fully responsive, pixel-perfect
+<div align="center">
+
+🎨 Obsessed with **micro interactions** and smooth motion design
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📖 Every site tells a **story**, not just displays content
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💡 Focused on **premium, custom** builds, never templated
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Performance first, fully responsive, pixel perfect
+
+</div>
 
 <br/>
 
@@ -71,34 +72,33 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 
 <table align="center" width="100%">
 <tr>
-<td valign="top" width="33%" align="center">
+<td align="center" width="33%" valign="top">
 
-### 🖥️ Frontend
+**🖥️ Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
 
-<sub>Next.js · React · TypeScript<br/>JavaScript · Tailwind CSS · HTML5 · CSS3</sub>
+<sub>Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3</sub>
 
 </td>
-<td valign="top" width="33%" align="center">
+<td align="center" width="33%" valign="top">
 
-### ✨ Animation
+**✨ Animation**
 
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-<br/><br/>
 <sub>Framer Motion · GSAP · Lenis</sub>
 
 </td>
-<td valign="top" width="33%" align="center">
+<td align="center" width="33%" valign="top">
 
-### 🛠️ Tools
+**🛠️ Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 
-<sub>Git · GitHub · VS Code<br/>Figma · Vercel</sub>
+<sub>Git · GitHub · VS Code · Figma · Vercel</sub>
 
 </td>
 </tr>
@@ -113,25 +113,26 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 <table align="center" width="100%">
 
 <tr>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Birthday+Surprise" width="100%" style="border-radius:12px" />
 
-### 🎂 Birthday Surprise Website
-<sub>An interactive countdown-and-reveal experience with personalized messages, photo galleries, and celebratory animations.</sub>
+**🎂 Birthday Surprise Website**
+
+<sub>An interactive countdown and reveal experience with personalized messages, photo galleries, and celebratory animations.</sub>
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Wedding+Invitation" width="100%" style="border-radius:12px" />
 
-### 💍 Wedding Invitation Website
+**💍 Wedding Invitation Website**
+
 <sub>An elegant digital invitation with RSVP flow, event timeline, venue map, and a cinematic scroll experience.</sub>
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -139,30 +140,30 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Relationship+Timeline" width="100%" style="border-radius:12px" />
 
-### 💞 Relationship Timeline
-<sub>A scroll-driven story of "us" — milestones, photos, and moments animated into a beautiful visual timeline.</sub>
+**💞 Relationship Timeline**
+
+<sub>A scroll driven story of us, with milestones, photos, and moments animated into a beautiful visual timeline.</sub>
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=vercel" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Digital+Apology" width="100%" style="border-radius:12px" />
 
-### 💌 Digital Apology Website
+**💌 Digital Apology Website**
+
 <sub>A heartfelt, cinematic apology experience blending typography, soft motion, and a handwritten letter reveal.</sub>
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -170,38 +171,37 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Proposal+Website" width="100%" style="border-radius:12px" />
 
-### 💍 Proposal Website
-<sub>A suspenseful, romantic "will you marry me" experience — interactive question flow with a grand animated finale.</sub>
+**💍 Proposal Website**
+
+<sub>A suspenseful, romantic marriage proposal experience with an interactive question flow and a grand animated finale.</sub>
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
-<td width="50%" valign="top">
-<div>
+<td width="50%" valign="top" align="center">
+
 <img src="https://placehold.co/600x340/1a1a2e/C9A9FF?text=Personalized+Gift" width="100%" style="border-radius:12px" />
 
-### 🎁 Personalized Gift Website
-<sub>A custom digital keepsake — photo memories, playlists, and messages wrapped into one shareable gift experience.</sub>
+**🎁 Personalized Gift Website**
+
+<sub>A custom digital keepsake with photo memories, playlists, and messages wrapped into one shareable gift experience.</sub>
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-C9A9FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/wishverse-webs/your-repo"><img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 </tr>
 
@@ -213,12 +213,12 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 
 ## 📊 GitHub Statistics
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td>
+<td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wishverse-webs&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A9FF&icon_color=C9A9FF&text_color=c9d1d9" width="100%"/>
 </td>
-<td>
+<td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wishverse-webs&theme=radical&hide_border=true&background=0d1117&stroke=C9A9FF&ring=C9A9FF&fire=C9A9FF&currStreakLabel=C9A9FF" width="100%"/>
 </td>
 </tr>
@@ -239,10 +239,17 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 
 ## 🎯 Current Focus
 
-- 🚀 Building premium interactive websites
-- ✨ Creating unforgettable digital experiences
-- 📚 Learning advanced animation techniques
-- 🎯 Helping clients celebrate special moments
+<div align="center">
+
+🚀 Building premium interactive websites
+&nbsp;&nbsp;•&nbsp;&nbsp;
+✨ Creating unforgettable digital experiences
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📚 Learning advanced animation techniques
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎯 Helping clients celebrate special moments
+
+</div>
 
 <br/>
 
@@ -273,12 +280,8 @@ Every project I create is built around **beautiful animation, thoughtful storyte
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=footer"/>
-
 <div align="center">
 
-<i>"Every memorable moment deserves a beautiful digital experience."</i>
-
-<sub>Made with 💜 by <b>Faizan</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=220&section=footer&text=Every%20memorable%20moment%20deserves%20a%20beautiful%20digital%20experience&fontSize=20&fontColor=C9A9FF&fontAlignY=65&desc=Made%20with%20love%20by%20Faizan&descAlignY=85&descSize=14&descColor=E8E1FF" width="100%"/>
 
 </div>
