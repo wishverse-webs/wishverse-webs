@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A9FF&center=true&vCenter=true&width=650&height=90&lines=Hi%2C+I'm+Faizan;I+build+premium+digital+experiences;That+turn+memories+into+unforgettable+websites" alt="Typing SVG" style="margin-top: -195px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C9A9FF&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Faizan;I+build+premium+digital+experiences;That+turn+memories+into+unforgettable+websites" alt="Typing SVG" style="margin-top: -115px;" />
 
 <br/>
 
-<a href="mailto:wishverse.webs@gmail.com">
+<a href="mailto:wishverse.webs@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Let's_Work_Together-C9A9FF?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
-<a href="https://wishverse-webs.vercel.app">
+<a href="https://wishverse-webs.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View_Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -248,16 +248,16 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:wishverse.webs@gmail.com">
+<a href="mailto:wishverse.webs@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-C9A9FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/wishverse-webs">
+<a href="https://github.com/wishverse-webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/wishverse-webs">
+<a href="https://instagram.com/wishverse-webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://tiktok.com/@wishverse-webs">
+<a href="https://tiktok.com/@wishverse-webs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 </p>
@@ -272,8 +272,8 @@ Every project I create is built around <b>beautiful animation, thoughtful storyt
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=220&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=E8E1FF&center=true&vCenter=true&width=650&height=70&lines=Every+memorable+moment+deserves+a+beautiful+digital+experience;Made+with+love+by+Faizan" alt="Typing SVG" style="margin-top: -140px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=1000&color=E8E1FF&center=true&vCenter=true&width=650&height=60&lines=Every+memorable+moment+deserves+a+beautiful+digital+experience;Made+with+love+by+Faizan" alt="Typing SVG" style="margin-top: -80px;" />
 
 </div>
